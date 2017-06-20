@@ -1,2 +1,5 @@
 # Quora-Duplicate-Pairs
-competition code (final rank = top 10.67%)
+
+ * method description: [Report](Report.pdf)
+ * final rank: top 10.67%
+
